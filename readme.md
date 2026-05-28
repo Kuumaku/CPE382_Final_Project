@@ -46,9 +46,6 @@ Example Output:
  -> Result: Pineapple is NORMAL (Circularity: 0.21, Keypoints: 50)
  -> Result: Pineapple is DEFECTIVE (Circularity: 0.19, Keypoints: 2000)
 
-==============================
-FINAL EXAM REPORT
-==============================
 Total Objects: 42
 Defective Objects: 6
 Average Area: 521 pixels
